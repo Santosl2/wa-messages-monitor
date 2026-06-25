@@ -1,0 +1,1 @@
+{"root":["./src/background.ts","./src/storage.ts","./src/content/storage-bridge.ts","./src/hooks/incoming-decrypt.ts","./src/hooks/index.ts","./src/hooks/wa.ts","./src/hooks/wam-scrub.ts","./src/sidepanel/Table.tsx","./src/sidepanel/main.tsx","./src/utils/removeFields.ts","./vite.config.ts","./manifest.config.ts"],"version":"5.9.3"}
