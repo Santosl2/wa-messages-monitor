@@ -33,7 +33,7 @@ Principais pontos:
 
 1. Clone o repositorio:
 
-   git clone <url-do-seu-repositorio>
+   git clone https://github.com/Santosl2/wa-messages-monitor
 
 2. Entre na pasta do projeto:
 
@@ -93,3 +93,6 @@ Principais pontos:
 ## Observacoes
 
 Use este projeto com responsabilidade e respeitando termos de uso da plataforma, privacidade e legislacao aplicavel na sua regiao.
+
+## Licença
+MIT License
