@@ -34,9 +34,11 @@ export function installDecryptHook(): boolean {
         };
 
         const fullMessage = {
-          ...decodedResult,
           contactName: tryGetContactName(user + "@" + server),
           fullJid: _serialized,
+          ...decodedResult,
+          msgInfo: args[3].msgInfo,
+          bizInfo: args[3].bizInfo,
         };
 
         /// message contains buffers that are not serializable, so we remove them before sending the message to the popup
